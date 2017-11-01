@@ -1,9 +1,10 @@
 # dph017.github.io
 
-__Pro tip:__ _On a computer, press click `Ctrl+F` to find some topic your'e looking for! On a phone, you should find a search/find option in the options pane. Alternatively, you can also browse all questions, ordered DESC by date, and find the answers in the associated hyperlinks._
+## This Week: [Partial positive charge](#partial-positive-charge), [Partial negative charge](#partial-negative-charge), [Lone pair](#lone-pair), [Bond pair](#bond-pair)
+
+__Pro tip:__ _On a computer, press click `Ctrl+F` to find some topic you're looking for! On a phone, you should find a search/find option in the options pane. Alternatively, you can also browse all questions, ordered DESC by date, and find the answers in the associated hyperlinks._
 
 ---
-
 
 1. `2017-11-01`
 Question:
@@ -11,7 +12,7 @@ Question:
 What is parcial positive? n parcial negetive charge?
 What is lone pair n bond pair of electron?
 ```
-    
+
     * [Partial charge](#partial-charge)
         * [Partial positive charge](#partial-positive-charge)
         * [Partial negative charge](#partial-negative-charge)
@@ -33,10 +34,12 @@ _(ref. [Wikipedia](https://en.wikipedia.org/wiki/Partial_charge))_
 
 ## Partial Positive Charge
 If you understand the definition of partial charge, the concept of partial positive charge should be quite easy. Basically, partial positive charge is weak positive charge acquired by an atom in an atomic bond when they receive electrons infrequently as a part of the bond formation.
+
 _A classic example of such a charge is found in Hydrogen atom inside the water molecule._ 
 
 ## Partial Negative Charge
 Similarly, if you understand partial positive charge, this is similar. In this case, the atoms receive electrons very frequently.
+
 _Oxygen atom inside the water molecule is a prime example._ 
 
 
@@ -48,7 +51,8 @@ _Oxygen atom inside the water molecule is a prime example._
 >यो किन हुन्छ; कसो हुन्छ​, VSEPR theory बुझेपछि सहजै थहापाइन्छ​। अहिलेको लागि यो बुझ्नु कि, NH<sub>3</sub> मा N ले H सङ्ग जोड्ने ३ वटा इलेक्ट्रोन बोन्ड पेयर हो, बाँकी दुईवटा चाहि लोन पेयर हो।
 
 ## Lone pair
->लोन पेयर भेनेको यस्तो इलेक्ट्रोन पेयर जुनले कुनै पनि <u>अन्य</u> एटम सङ्ग एटोमिक बोन्ड बनाको हुदैन 
+>लोन पेयर भेनेको यस्तो इलेक्ट्रोन पेयर जुनले कुनै पनि <u>अन्य</u> एटम सङ्ग एटोमिक बोन्ड बनाको हुदैन।
+>
 > यहा, <u>अन्य</u>मा ध्यान दियौं। लोन पेयर आफैमा इलेक्ट्रोन पेयरको एक प्रकार हो ( भनेको: इलेक्ट्रोन पेयरको  एक Type लोन पेयर हो।)
 
 * __Definition__
