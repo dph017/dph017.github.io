@@ -30,6 +30,7 @@ What is lone pair n bond pair of electron?
 * __Definition:__
 A partial charge is a non-integer charge value when measured in elementary charge units. Partial charge is more commonly called net atomic charge. It is represented by the Greek lowercase letter δ, namely δ− or δ+. Partial charges are created due to the asymmetric distribution of electrons in chemical bonds.
 _(ref. [Wikipedia](https://en.wikipedia.org/wiki/Partial_charge))_
+
 * __Concept Builder:__ [Youtube](https://www.youtube.com/embed/yi6w6yYRr-c?start=175&end=221&rel=0)
 
 ## Partial Positive Charge
